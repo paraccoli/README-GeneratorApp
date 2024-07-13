@@ -76,6 +76,17 @@ README-GeneratorApp/
    ```
 3. ブラウザで `http://localhost:5000` にアクセスします。
 
+## exeファイルの使用方法
+
+アプリケーションをexeファイルとして実行することもできます。以下の手順に従ってください：
+
+1. `Release`からapp.exeをダウンロードします。
+2. ルートディレクトリに `app.exe` ファイルを移動させ、ダブルクリックして実行します。
+3. ブラウザで `http://localhost:5000` にアクセスしてアプリケーションを使用します。
+
+注意: exeファイルを実行する際は、アンチウイルスソフトウェアによってブロックされる可能性があります。その場合は、ファイルが安全であることを確認した上で、アンチウイルスソフトウェアの設定で許可してください。
+
+
 <img src="images/Screenshot_1.png">
 
 ## English
@@ -152,6 +163,16 @@ README-GeneratorApp/
    flask run
    ```
 3. Access `http://localhost:5000` in your browser.
+
+## Using the EXE file
+
+You can also run the application as an exe file. Follow these steps:
+
+1. download the app.exe from `Release`.
+2. Double-click the `app.exe` file in the root directory to run it.
+3. Access the application by opening `http://localhost:5000` in your browser.
+
+Note: When running the exe file, it may be blocked by antivirus software. If this happens, make sure the file is safe and then allow it in your antivirus software settings.
 
 ## 作成者 Developer
 - Miguel
