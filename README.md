@@ -12,7 +12,7 @@
 
 ### ファイル構成
 ```
-README-Generator/
+README-GeneratorApp/
 │
 ├── app.py                 # メインアプリケーションファイル
 ├── claude_api.py          # Claude APIとの通信を行うファイル
@@ -40,8 +40,8 @@ README-Generator/
 ### 導入方法
 1. リポジトリをクローンします：
    ```
-   git clone https://github.com/yourusername/README-Generator.git
-   cd README-Generator
+   git clone https://github.com/xM1guel/README-GeneratorApp.git
+   cd README-GeneratorApp
    ```
 2. 仮想環境を作成し、アクティベートします：
    ```
@@ -90,7 +90,7 @@ Thank you for visiting. This application is a tool for easily generating READMEs
 
 ### File Structure
 ```
-README-Generator/
+README-GeneratorApp/
 │
 ├── app.py                 # Main application file
 ├── claude_api.py          # File for communicating with Claude API
@@ -118,8 +118,8 @@ README-Generator/
 ### Installation Guide
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/README-Generator.git
-   cd README-Generator
+   git clone https://github.com/xM1guel/README-GeneratorApp.git
+   cd README-GeneratorApp
    ```
 2. Create and activate a virtual environment:
    ```
@@ -154,7 +154,5 @@ README-Generator/
 3. Access `http://localhost:5000` in your browser.
 
 ## 作成者 Developer
-
-[Your Name]
-
-GitHub: [@yourusername](https://github.com/yourusername)
+- Miguel
+- GitHub: [@xMiguel](https://github.com/xM1guel)
