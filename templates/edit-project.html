@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="text-center mb-4">{{ _('Generate Your GitHub README') }}</h1>
+<form id="readme-form">
+    <div class="mb-3">
+        <label for="project-name" class="form-label">{{ _('Project Name') }}</label>
+        <input type="text" class="form-control" id="project-name" required>
+    </div>
+    <div class="mb-3">
+        <label for="project-description" class="form-label">{{ _('Project Description') }}</label>
+        <textarea class="form-control" id="project-description" rows="3" required></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="project-features" class="form-label">{{ _('Key Features (comma-separated)') }}</label>
+        <input type="text" class="form-control" id="project-features">
+    </div>
+    <button type="submit" class="btn btn-primary">{{ _('Generate README') }}</button>
+</form>
+
+<div id="result" class="mt-5" style="display: none;">
+    <h2>{{ _('Generated README:') }}</h2>
+    <pre id="readme-content" class="border p-3"></pre>
+</div>
+{% endblock %}

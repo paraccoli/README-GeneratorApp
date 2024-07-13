@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "GitHub README Generator"
+msgstr "GitHub README Generator"
+
+msgid "README Generator"
+msgstr "README Generator"
+
+msgid "Generate Your GitHub README"
+msgstr "Generate Your GitHub README"
+
+msgid "Project Name"
+msgstr "Project Name"
+
+msgid "Project Description"
+msgstr "Project Description"
+
+msgid "Key Features (comma-separated)"
+msgstr "Key Features (comma-separated)"
+
+msgid "Generate README"
+msgstr "Generate README"
+
+msgid "Generated README:"
+msgstr "Generated README:"
+
+msgid "Your Projects"
+msgstr "Your Projects"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Created At"
+msgstr "Created At"
+
+msgid "Updated At"
+msgstr "Updated At"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Are you sure you want to delete this project?"
+msgstr "Are you sure you want to delete this project?"
+
+msgid "Project deleted successfully"
+msgstr "Project deleted successfully"
+
+msgid "Create New Project"
+msgstr "Create New Project"
+
+msgid "My Projects"
+msgstr "My Projects"

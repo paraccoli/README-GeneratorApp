@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "GitHub README Generator"
+msgstr "GitHub README ジェネレーター"
+
+msgid "README Generator"
+msgstr "README ジェネレーター"
+
+msgid "Generate Your GitHub README"
+msgstr "GitHub README を生成する"
+
+msgid "Project Name"
+msgstr "プロジェクト名"
+
+msgid "Project Description"
+msgstr "プロジェクトの説明"
+
+msgid "Key Features (comma-separated)"
+msgstr "主な機能（カンマ区切り）"
+
+msgid "Generate README"
+msgstr "README を生成"
+
+msgid "Generated README:"
+msgstr "生成された README:"
+
+msgid "Your Projects"
+msgstr "あなたのプロジェクト"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Created At"
+msgstr "作成日時"
+
+msgid "Updated At"
+msgstr "更新日時"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Are you sure you want to delete this project?"
+msgstr "このプロジェクトを削除してもよろしいですか？"
+
+msgid "Project deleted successfully"
+msgstr "プロジェクトが正常に削除されました"
+
+msgid "Create New Project"
+msgstr "新規プロジェクト作成"
+
+msgid "My Projects"
+msgstr "マイプロジェクト"

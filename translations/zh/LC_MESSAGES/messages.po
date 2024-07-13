@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "GitHub README Generator"
+msgstr "GitHub README 生成器"
+
+msgid "README Generator"
+msgstr "README 生成器"
+
+msgid "Generate Your GitHub README"
+msgstr "生成您的 GitHub README"
+
+msgid "Project Name"
+msgstr "项目名称"
+
+msgid "Project Description"
+msgstr "项目描述"
+
+msgid "Key Features (comma-separated)"
+msgstr "主要特性（用逗号分隔）"
+
+msgid "Generate README"
+msgstr "生成 README"
+
+msgid "Generated README:"
+msgstr "生成的 README："
