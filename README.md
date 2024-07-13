@@ -2,7 +2,7 @@
 
 ## 日本語
 
-ご覧いただきありがとうございます。このアプリケーションは、GitHubプロジェクト用のREADMEを簡単に生成するためのツールです。プロジェクト名、説明、主な機能を入力するだけで、整形されたREADMEマークダウンを生成します。
+ご覧いただきありがとうございます。このアプリケーションは、Claude API を使用して、GitHubプロジェクト用のREADMEを簡単に生成するためのツールです。プロジェクト名、説明、主な機能を入力するだけで、整形されたREADMEマークダウンを生成します。
 
 ### 実装環境
 - Python 3.8+
@@ -58,8 +58,9 @@ README-Generator/
    FLASK_APP=app.py
    FLASK_ENV=development
    SECRET_KEY=your_secret_key
-   ANTHROPIC_API_KEY=your_anthropic_api_key
+   ANTHROPIC_API_KEY=YOUR_API_KEY
    ```
+<img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20"> **Claude API KEYは各自で取得して下さい。** <img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20">
 
 ### 起動方法
 1. データベースを初期化します：
@@ -74,6 +75,8 @@ README-Generator/
    flask run
    ```
 3. ブラウザで `http://localhost:5000` にアクセスします。
+
+<img src="images/Screenshot_1.png">
 
 ## English
 
@@ -133,7 +136,7 @@ README-Generator/
    FLASK_APP=app.py
    FLASK_ENV=development
    SECRET_KEY=your_secret_key
-   ANTHROPIC_API_KEY=your_anthropic_api_key
+   ANTHROPIC_API_KEY=YOUR_API_KEY
    ```
 
 ### Starting Method
