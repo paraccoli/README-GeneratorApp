@@ -40,7 +40,7 @@ README-GeneratorApp/
 ### 導入方法
 1. リポジトリをクローンします：
    ```
-   git clone https://github.com/xM1guel/README-GeneratorApp.git
+   git clone https://github.com/paraccoli/README-GeneratorApp.git
    cd README-GeneratorApp
    ```
 2. 仮想環境を作成し、アクティベートします：
@@ -129,7 +129,7 @@ README-GeneratorApp/
 ### Installation Guide
 1. Clone the repository:
    ```
-   git clone https://github.com/xM1guel/README-GeneratorApp.git
+   git clone https://github.com/paraccoli/README-GeneratorApp.git
    cd README-GeneratorApp
    ```
 2. Create and activate a virtual environment:
@@ -175,5 +175,5 @@ You can also run the application as an exe file. Follow these steps:
 Note: When running the exe file, it may be blocked by antivirus software. If this happens, make sure the file is safe and then allow it in your antivirus software settings.
 
 ## 作成者 Developer
-- Miguel
-- GitHub: [@xMiguel](https://github.com/xM1guel)
+- パラッコリー(ID：Paraccoli)
+- GitHub: [@Paraccoli](https://github.com/paraccoli)
